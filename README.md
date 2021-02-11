@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}" target="_blank" rel="noopener noreferrer">
+    <a href="https://recipe-page.rafacalvo.vercel.app/" target="_blank" rel="noopener noreferrer">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}" target="_blank" rel="noopener noreferrer">
+    <a href="https://recipe-page.rafacalvo.vercel.app/" target="_blank" rel="noopener noreferrer">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}" target="_blank" rel="noopener noreferrer">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht" target="_blank" rel="noopener noreferrer">
       Challenge
     </a>
   </h3>
